@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "GrassBlock1",
+      "name": "草方块",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46253950?v=4",
+      "profile": "https://acfk.xyz",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Balkline",
+  "projectOwner": "TeamMicrol",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
