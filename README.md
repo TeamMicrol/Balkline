@@ -25,6 +25,5 @@
   <td align="center"><a href="https://acfk.xyz"><img src="https://avatars.githubusercontent.com/u/46253950?v=4?s=100" width="100px;" alt=""/><br /><sub><b>草方块</b></sub></a><br /><a href="#design-GrassBlock1" title="Design">🎨</a></td>
   </tr>
 </table>
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 ## 特别感谢
 感谢Telegram群友Lapis Apple提出设计灵感~
