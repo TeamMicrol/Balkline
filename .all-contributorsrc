@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "yuhuan-afk",
+      "name": "郭桓桓",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55643232?v=4",
+      "profile": "https://kuohuanhuan.me",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Balkline",
+  "projectOwner": "TeamMicrol",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
