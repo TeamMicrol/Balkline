@@ -24,4 +24,4 @@
 </table>
 
 ## 特别感谢
-感谢Telegram群友Lapis Apple提出设计灵感~
+感谢Telegram群友[Lapis Apple](laple.top)提出设计灵感~
